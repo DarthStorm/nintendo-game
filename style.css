@@ -1,0 +1,12 @@
+
+
+body {
+    padding:0;
+    margin:0;
+    overflow:hidden;
+}/*trust me bro */
+
+#canvas {
+    width:100vw;
+    height:100vh;
+}
